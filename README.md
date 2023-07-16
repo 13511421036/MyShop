@@ -1,2 +1,2 @@
 # MyShop
-Android studio，SQLite，Online Shop
+Android studio，SQLite，Online Shop，Java
