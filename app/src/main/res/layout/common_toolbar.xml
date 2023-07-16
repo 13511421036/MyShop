@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.appbar.MaterialToolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/id_toolbar"
+    android:layout_height="wrap_content"
+    app:navigationIcon="@drawable/back_button"
+    app:titleTextColor="#ffffff">
+
+</com.google.android.material.appbar.MaterialToolbar>
